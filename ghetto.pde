@@ -3,7 +3,7 @@
  * Author:   Ben Tappin
  * Date:     Late September 2009
  * Summary:  A simple app that chases LEDs, makes them
- *           blink, flash ramdomly, all in the name of
+ *           blink, flash randomly, all in the name of
  *           fun and a fancy dress party.
  */
 
