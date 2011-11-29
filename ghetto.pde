@@ -5,6 +5,7 @@
  * Summary:  A simple app that chases LEDs, makes them
  *           blink, flash ramdomly, all in the name of
  *           fun and a fancy dress party.
+ * Video:    http://mrben.co.uk/entry/Lets-get-ghetto-arduino-styleee/
  */
 
 int totalLeds = 10;
